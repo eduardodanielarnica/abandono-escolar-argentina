@@ -2,7 +2,7 @@
 
 Proyecto de análisis y visualización interactiva de la **Tasa de Abandono Interanual en Argentina**, desarrollado con R y Shiny a partir de datos educativos oficiales.
 
-![Dashboard Abandono Escolar en Argentina](imágenes/tablero-abandono-escolar.png)
+![Dashboard Abandono Escolar en Argentina](imagenes/dashboard-abandono-escolar.png)
 
 ## 🎯 Objetivo
 
